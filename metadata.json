@@ -1,0 +1,6 @@
+{
+  "name": "Portal Resmi PSP SPN Nikomas Gemilang",
+  "description": "Portal Resmi & Sistem Informasi Pimpinan Serikat Pekerja SPN Kawasan Industri PT Nikomas Gemilang dengan Layanan Advokasi Bipartit, Cetak KTA Digital, Berita Publik, dan Panel Master Admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
